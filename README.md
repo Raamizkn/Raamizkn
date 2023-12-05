@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Raamizkn
+- Hey, I’m @Raamizkn
 - Interested in Artificial Intelligence, Data Science, Cloud Computing and Cyber Security
 - Computer Science and Engineering Major
 - Currently looking to collaborate on LLM projects
